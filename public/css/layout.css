@@ -325,8 +325,8 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  	width: 60%;
+.html {
+  	width: 75%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
@@ -335,15 +335,20 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+.javascript {
+   width: 85%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
 }
 .css {
   	width: 70%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
+}
+.django {
+   width: 50%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
 }
 .html5 {
   	width: 80%;

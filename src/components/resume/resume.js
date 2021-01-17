@@ -4,6 +4,12 @@ export default  class Resume extends Component {
     let resumeData = this.props.resumeData;
     return (
       <section id="resume">
+          <div className="row education">
+        
+        <div className="three columns header-col">
+               <h6><span><a href="images/cv.pdf">Click Here,To open my resume document or scroll down </a></span></h6>
+            </div>
+            </div>
 
          <div className="row education">
 
@@ -49,6 +55,7 @@ export default  class Resume extends Component {
                           <p>
                           {item.Achievements}
                           </p>
+                          
                        </div>
 
                     </div>

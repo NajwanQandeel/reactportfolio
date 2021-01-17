@@ -20,9 +20,9 @@ export default class Header extends Component {
 
          <div className="row banner">
             <div className="banner-text">
-               <h1 className="responsive-headline">I am {resumeData.name}.</h1>
-               <h3>I am a {resumeData.role}.{resumeData.roleDescription}
-               </h3>
+               <h1 className="responsive-headline">Hello,I am {resumeData.name}.</h1>
+               <h2>I am a {resumeData.role}.{resumeData.roleDescription}
+               </h2>
                <hr/>
                <ul className="social">
                   {
