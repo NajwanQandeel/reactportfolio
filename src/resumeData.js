@@ -16,7 +16,7 @@ let resumeData = {
         "className":"fa fa-github"
       }
     ],
-  "aboutme":"I have finished my Bacholar Degree  in Computer Engineering, and have been working in management for past few years.",
+  "aboutme":"I have finished my Bacholar Degree  in Computer Engineering, and have been working in management for past few years until the begining of 2020 ,after that I start improve my self in programming.",
   "address":"Palestine",
   "phoneNumber":"+972597219709",
    "email":"najwan.qandeel@gmail.com",
@@ -83,25 +83,25 @@ let resumeData = {
       "name":"FoodDose",
       "description":"webapp",
       "imgurl":"images/food.jpg",
-      "link":"https://github.com/NajwanQandeel/FoodDoseRepo"
+      "url":"https://github.com/NajwanQandeel/FoodDoseRepo"
     },
     {
       "name":"LafLefne",
       "description":"webapp",
-      "imgurl":"https://camo.githubusercontent.com/1413812fc2265b9468557d315d31a13750ac1493e747c24d284ac92170cb30cf/68747470733a2f2f692e696d6775722e636f6d2f543657484b67392e706e67",
-      "link":"https://github.com/NajwanQandeel/GreenField5"
+      "imgurl":"images/laf.jpg",
+      "url":"https://github.com/NajwanQandeel/GreenField5"
     },
     {
       "name":"Servize",
       "description":"webapp",
-      "imgurl":"https://github.com/NajwanQandeel/servize",
-      "link":"https://github.com/NajwanQandeel/servize"
+      "imgurl":"images/serviz.png",
+      "url":"https://github.com/NajwanQandeel/servize"
     },
     {
       "name":"Portfolio",
       "description":"webapp",
-      "imgurl":"images/portfolio/phone.jpg",
-      "link":"https://github.com/NajwanQandeel/reactportfolio"
+      "imgurl":"images/portf.jpg",
+      "url":"https://github.com/NajwanQandeel/reactportfolio"
     }
   ]
 }

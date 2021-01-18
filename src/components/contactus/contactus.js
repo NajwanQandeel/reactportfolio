@@ -15,7 +15,8 @@ export default class ContactUs extends Component {
             <aside className="eigth columns footer-widgets">
               <div className="widget">
                 <h4>Linked in :
-                  {resumeData.linkedinId}
+                 <a href="https://www.linkedin.com/in/najwan-qandeel-a23b044a/"> LinkedIn</a><br/>
+                 phone number : +972597219709
                 </h4>
               </div>
             </aside>
